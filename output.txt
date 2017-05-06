@@ -1,0 +1,9 @@
+the top words are    'mapreduce'    'adapt'
+
+the interesting documents can be     4
+    44
+    35
+
+
+
+Note: All the documents are collected from Bigdata and mapreduce domain.
