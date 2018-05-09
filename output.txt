@@ -6,4 +6,3 @@ the interesting documents can be     4
 
 
 
-Note: All the documents are collected from Bigdata and mapreduce domain.
