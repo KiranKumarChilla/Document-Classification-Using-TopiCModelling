@@ -1,8 +1,7 @@
-the top words are    'mapreduce'    'adapt'
+the top words are    'mapreduce'    'data'
 
 the interesting documents can be     4
     44
     35
-
 
 
